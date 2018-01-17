@@ -1,0 +1,1 @@
+gcc -lpthread -p ping ping.c
